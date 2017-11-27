@@ -2,6 +2,7 @@
 # Generates two separate 8.5" x 11" map PDFs: one map for the property location, and one for the property structures.
 # Created for Austin Code Department 9/19/2014 by J Clary.
 #New to this version: ability to set scale of each map or use defaults
+#Under improvement
 
 import arcpy
 
